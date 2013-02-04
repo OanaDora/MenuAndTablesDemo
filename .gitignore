@@ -8,7 +8,7 @@ gwt-unitCache*
 *.war
 *.jar
 *.cache.*
-.gwt/*
+*.gwt/*
 WebContent/menuAndTablesDemo/*
 WebContent/login/*
 WebContent/WEB-INF/deploy/*
